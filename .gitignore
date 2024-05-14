@@ -1,0 +1,11 @@
+# Ignore all node_modules folders
+node_modules/
+
+# Ignore all package-lock.json files
+package-lock.json
+
+# Ignore dev.database.sqlite
+dev.database.sqlite
+
+# Ignore sync/dump.txt
+sync/dump.txt
